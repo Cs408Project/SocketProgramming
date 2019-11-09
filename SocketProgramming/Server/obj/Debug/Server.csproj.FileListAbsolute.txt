@@ -1,0 +1,8 @@
+D:\Cs300\SocketProgramming\Server\bin\Debug\Server.exe.config
+D:\Cs300\SocketProgramming\Server\bin\Debug\Server.exe
+D:\Cs300\SocketProgramming\Server\bin\Debug\Server.pdb
+D:\Cs300\SocketProgramming\Server\bin\Debug\ServerData.dll
+D:\Cs300\SocketProgramming\Server\bin\Debug\ServerData.pdb
+D:\Cs300\SocketProgramming\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+D:\Cs300\SocketProgramming\Server\obj\Debug\Server.exe
+D:\Cs300\SocketProgramming\Server\obj\Debug\Server.pdb
